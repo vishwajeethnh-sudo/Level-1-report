@@ -1,4 +1,4 @@
-## Introduction to engineering Drawing
+## Introduction to Engineering Drawing
 ### Objective
 
 The objective of this task is to understand isometric and orthographic projections and represent three-dimensional objects through engineering drawings. Also creating 2D CAD drawings from the reference designs and learn hoe to draw a Level 2 Sierpinski triangle on a drawing sheet with clearly labelled dimensions. 
