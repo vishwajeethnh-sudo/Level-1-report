@@ -9,4 +9,4 @@ Computer-Aided Design is the use of computer software to create, modify, analyse
 
 CAD is widely used in mechanical engineering for designing machine components, automotive parts, industrial equipment, product enclosures, and manufacturing assemblies.
 
-Autodesk Fusion 360 is used in the Mechanical Design module to develop 2D sketches, 3D models, assemblies, and mechanical animations.
+Solidworks, Catia, Autodesk Fusion 360 etc. are used in the Mechanical Design module to develop 2D sketches, 3D models, assemblies, and mechanical animations.
