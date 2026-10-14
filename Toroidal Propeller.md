@@ -9,3 +9,6 @@ I studied the shape and intended use of toroidal propellers and reviewed the Sur
 
 ### Learning
 This task introduced me to surface modelling for complex curved shapes. It also helped me understand that propeller design must consider dimensions, mounting compatibility, and operating requirements.
+
+
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/Toroidal.png)
