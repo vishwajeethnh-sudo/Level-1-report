@@ -9,3 +9,5 @@ I created the basic box geometry and organised the key dimensions as parameters 
 ### Learning
 This task helped me understand parametric modelling and the use of dimensions and relationships to control a design. I also learnt about different joining mechanisms and the importance of fit, clearances, and assembly motion in product design.
 
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/PB1.png)
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/PB2.png)
