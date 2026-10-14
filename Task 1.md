@@ -18,3 +18,5 @@ Size: 3 mm
 Learning
 
 This task helped me understand how to create a simple mechanical tool as a 3D model and prepare a corresponding engineering drawing in Solidworks.
+
+![]()
