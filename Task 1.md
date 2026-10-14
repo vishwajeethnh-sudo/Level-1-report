@@ -19,4 +19,4 @@ Learning
 
 This task helped me understand how to create a simple mechanical tool as a 3D model and prepare a corresponding engineering drawing in Solidworks.
 
-![]()
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/Screenshot%202026-10-15%20010531.png)
