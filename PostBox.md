@@ -13,3 +13,5 @@ Height: 1 ft ~ 308mm
 
 ### Learning
 This task helped me understand sheet metal modelling and the importance of material thickness, bends, and manufacturability when designing a practical product.
+
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/Screenshot%202026-10-15%20012918.png)
