@@ -35,3 +35,5 @@ Gear ratio = 40 / 20 = 2:1
 
 This task helped me connect gear theory with CAD modelling. I learnt how to calculate pitch diameters and centre distance, understand the relationship between gear sizes and rotational speed, and use an assembly animation to demonstrate motion transfer.
 
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/Spur%20gear.png)
+
