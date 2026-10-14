@@ -14,3 +14,5 @@ I constructed the Sierpinski triangle by starting with a triangle and subdividin
 ### Learning
 
 This task helped me understand how different views represent an object and how orthographic and isometric drawings are used to communicate the shape and dimensions of mechanical components. Also helped me become familiar with 2D sketching in CAD and understand how reference drawings can be recreated digitally. 
+
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/Orthogonal%20Projection.jpeg)
