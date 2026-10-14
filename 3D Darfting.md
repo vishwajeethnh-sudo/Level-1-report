@@ -1,4 +1,4 @@
-## Task 5: 3D Drafting 
+## Task 1: 3D Drafting 
 ### Objective
 The objective of this task is to create 3D models of at least three machine parts in Solidworks using the reference drawings provided.
 
