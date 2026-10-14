@@ -8,3 +8,6 @@ I used the Forms environment to create and refine the vase's organic shape. I mo
 
 ### Learning
 This task helped me understand freeform modelling and how to create smooth, curved shapes in Fusion 360 while maintaining the required dimensions and wall thickness.
+
+
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/Hollow%20vase.png)
