@@ -7,3 +7,6 @@ I selected 2 of the mechanisms provided in the resources: a simple slider mechan
 
 ### Learning
 This task helped me understand mechanical assemblies, joint selection, and the basic kinematics of mechanisms. It also showed how animation can be used to visualise the movement of a mechanical system.
+
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/QRMM.png)
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/Geneva%20Wheel.png)
