@@ -11,3 +11,4 @@ I studied the basic geometry of an airfoil, including the leading edge, trailing
 
 This task helped me understand what an Airfoil is and how is it designed for precise calculations. I also learnt the relationship between airfoil geometry and CAD modelling. Additionally the meaning of the main airfoil terms and gained an introduction to the use of CAD in aircraft design.
 
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/Airfoil.png)
