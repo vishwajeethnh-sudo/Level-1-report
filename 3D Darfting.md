@@ -7,3 +7,9 @@ I studied the supplied engineering drawings, identified the main dimensions and 
 
 ### Learning
 This task helped me practise 3D part modelling and understand how engineering drawings can be translated into CAD models using appropriate features and dimensions.
+
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/T2.png)
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/T2.1.png)
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/T2.2.png)
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/T2.3.png)
+![](http://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/T2.4.png)
