@@ -7,5 +7,7 @@ I started by understanding the basics of assembly design in Fusion 360 and Solid
 
 I also studied assembly joints/ Mates, which define how components are connected and move relative to each other. Common joints include rigid, revolute, and slider joints for fusion whereas in Soldworks we use Mate feature to acquire the required motion. 
 
+ I also got a clear idea of the top-down and bottom-up approaches.
+ 
 ### Learning
 This task helped me understand the importance of organising a CAD design into components before assembly. I also gained an introduction to joints and how they define the movement between parts in a mechanical system. Additionally, I learnt about degrees of freedom (DOF), which describe the possible movements of a component, and how joints restrict these movements to achieve the required mechanical motion
